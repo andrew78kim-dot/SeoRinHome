@@ -1,3 +1,4 @@
 User-agent: Yeti
 Allow:/
 Allow:/Images/Logo.png
+Allow: /favicon.png
